@@ -39,8 +39,20 @@
  <b>Contact me:</b>
   <br>
   <br>
+  <a href="mailto:duttanaman1@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://img.icons8.com/fluent/48/000000/gmail.png"/>
+</a>&nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/duttanaman1999"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
   <a href="https://instagram.com/dutta.naman.until_eternity"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/instagram.svg" width="30px" alt="Instagram"></a> &nbsp; &nbsp;
-  <a href="https://twitter.com/dutta_naman"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/twitter.svg" width="30px" alt="Twitter">     </a> &nbsp; &nbsp;
+  <a href="https://www.facebook.com/naman.dutta.54/">
+  <img align="left" alt="Facebook" width="22px" src="https://img.icons8.com/android/24/000000/facebook.png"/>
+</a>&nbsp; &nbsp;
+  <a href="https://twitter.com/dutta_naman"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/twitter.svg" width="30px" alt="Twitter"></a> &nbsp; &nbsp;
   <a href="https://api.whatsapp.com/send?phone=+917339210265"><img src="https://github.com/Quadrified/Quadrified/blob/master/assets/my_svgs/whatsapp.svg" width="30px" alt="Whatsapp"></a> &nbsp; &nbsp;
+  <a href="https://stackoverflow.com/users/10946526/naman-dutta">
+  <img align="left" alt="Stack" width="22px" src="https://img.icons8.com/color/48/000000/stackoverflow.png"/>
+</a> &nbsp; &nbsp;
+  <a href="https://github.com/duttanaman1/">
+  <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
+</a>&nbsp; &nbsp;
 </p>
