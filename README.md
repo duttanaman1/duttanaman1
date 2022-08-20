@@ -1,6 +1,9 @@
-# Hi there 👋
-### duttanaman1 here <code><img  align="right" src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="250" /></code>
+# <a href="https://portfolio-duttanaman1.herokuapp.com/"><img src = "https://github.com/duttanaman1/myLogo/blob/main/Naman%20Dutta_free-file.png"/></a>
+
+### Hi there 👋
+<code><img  align="right" src="https://github.com/selimdoyranli/selimdoyranli/blob/master/preview.gif" width="250" /></code>
 ✨ _special_ ✨ repository
+
 
 - 🌱 I’m currently learning *Web development Technologies, Machine Learning and Software Development*
 - 👯 I’m looking to collaborate on *projects*
@@ -8,6 +11,56 @@
 - 💬 Ask me about *Software Development, Database Managment System, Web Technologies.*
 - 📫 How to reach me: _mail me at **duttanaman1@gmail.com**_
 - ⚡ Fun fact:  *I am highly perceptive and have razor sharp intuition. This does not mean that I know everything, and it does not mean that I am never wrong. But my instincts about people, events and situations are usually spot-on.* 
+
+## Skill set
+<table>
+<tr>
+<th>Core Languages:</th>
+<td>Java 8</td>
+<td>Javascript</td>
+<td>PHP</td>
+<td>Python</td>
+<td>C++</td>
+<td>HTML 5</td>
+<td>CSS & SASS</td>
+</tr>
+<tr>
+<td></td>
+<td>Spring Boot</td>
+<td>Maven</td>
+</tr>
+<tr>
+<td></td>
+<td>React JS</td>
+<td>Redux</td>
+<td>Express JS</td>
+<td>Node JS</td>
+<td>JQuery</td>
+</tr>
+<tr>
+<td></td>
+<td>numpy</td>
+<td>pandas</td>
+<td>Matplot</td>
+</tr>
+<tr>
+<td></td>
+<td>Bootstrap</td>
+<td>Tailwind CSS</td>
+</tr>
+<tr>
+<th>Database:</th>
+<td>MySQL</td>
+<td>Mongo DB</td>
+<td>RDBMS</td>
+</tr>
+<th>Scripts:</th>
+<td>GIT</td>
+<td>Linux</td>
+<td>JSON</td>
+<td>XML</td>
+</tr>
+</table>
 
 ## Languages and Tools :computer:
 
@@ -56,3 +109,5 @@
   <img align="left" alt="Github" width="22px" src="https://img.icons8.com/fluent/48/000000/github.png"/>
 </a>&nbsp; &nbsp;
 </p>
+
+<a href="https://portfolio-duttanaman1.herokuapp.com/">Protfolio</a>
